@@ -1,0 +1,131 @@
+    1  //192.168.40.40/COMMUN /media/COMMUN cifs vers=3.0,credentials=/.communcredentials
+    2  cd /mnt/nasshare/
+    3  ls
+    4  exit
+    5  cd /mnt/COMMUN/
+    6  ls
+    7  cd /mnt/nasshare/
+    8  ls
+    9  sudo apt-get install /home/formatpro/Téléchargements/CiscoPacketTracer_811_Ubuntu_64bit.deb 
+   10  sudo apt-get install java
+   11  LD_PRELOAD="/opt/packettracer/bin/libcrypto.so.1.1 /opt/packettracer/bin/libssl.so.1.1" PTDIR=/opt/packettracer /opt/packettracer/bin/PacketTracer
+   12  sudo mkdir /_IT-LIDEM
+   13  sudo chmod -R 777 /_IT-LIDEM
+   14  cd Desktop
+   15  cd Bureau
+   16  mkdir tutolinux
+   17  cd tutolinux/
+   18  cd Bureau
+   19  remove tutolinux
+   20  rs tutolinux
+   21  rm tutolinux
+   22  ls
+   23  cd ../..
+   24  ls
+   25  cd /home/media
+   26  cd /home/media/
+   27  cd /home/root/
+   28  cd
+   29  cd home/media
+   30  cd home/media/
+   31  cd 
+   32  ls
+   33  cd Bureau/
+   34  ls
+   35  mkdir testlinux
+   36  cd testlinux/
+   37  touch test
+   38  open test
+   39  vim
+   40  sudo apt install vim
+   41  touch test1
+   42  vim test1
+   43  open test
+   44  open test1
+   45  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   46  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)
+   47  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)
+   48  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   49  sudo apt install Zsh
+   50  sudo apt update
+   51  sudo apt install zsh -y
+   52  zsh --version
+   53  zsh
+   54  $ sudo apt install git-all
+   55  sudo apt install git-all
+   56  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   57  cat *
+   58  cd
+   59  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   60  $ zsh --version 
+   61  zsh --version
+   62  ls
+   63  cd ../.
+   64  ls
+   65  cd formatpro
+   66  ls
+   67  cd .oh-my-zsh
+   68  cd *
+   69  cd
+   70  cd ../..
+   71  ls
+   72  cd home
+   73  ls
+   74  cd formatpro
+   75  vim .oh-my-zsh
+   76  vim /.zshrc
+   77  ls
+   78  cd Bureau
+   79  mkdir test cp
+   80  cd test cp
+   81  mkdir testcp
+   82  cd testcp
+   83  cp test* 
+   84  cp tes*
+   85  clear
+   86  touch test
+   87  mv test test.txt
+   88  ls
+   89  ls -l
+   90  mv test.txt test
+   91  ls
+   92  mv test test.txt
+   93  ls
+   94  mv test.txt rep/
+   95  sudo mv test.txt /Bureau
+   96  ls
+   97  cd
+   98  ls
+   99  cd Bureau
+  100  ls
+  101  mkdir test2
+  102  cd test2
+  103  touch test2
+  104  vim test2
+  105  open test2 
+  106  ls
+  107  cat test2
+  108  mkdir test1 test2 test3
+  109  cd testlinux
+  110  cd
+  111  ls
+  112  cd Bureau
+  113  cd testlinux
+  114  mkdir test1 test2 test3 folders
+  115  mkdir test3 test3 test3 folders
+  116  mkdir test34 test 28 test64
+  117  mkdir test34 test28 test64
+  118  man
+  119  ls
+  120  rm *
+  121  ls
+  122  git
+  123  git clone https://github.com/Molotov4rs/IDEM-LinuxLOGS-.git
+  124  ls
+  125  mv IDEM-LinuxLOGS- Bureau
+  126  ls
+  127  cd Bureau
+  128  ls
+  129  history
+  130  history >> history/txt
+  131  history >> history.txt
